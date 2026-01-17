@@ -1,6 +1,6 @@
 Thực Hành Flatlist
 
-Họ tên: Tăng Thành Đạt
+Họ tên: Tăng Thành Đạt<br>
 Mã sinh viên: 23810310311
 
 Kết quả:
